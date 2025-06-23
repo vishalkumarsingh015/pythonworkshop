@@ -1,0 +1,8 @@
+#string operations 
+
+
+msg="Hell world"
+msg.lower()
+msg.upper()
+msg.tittle()
+msg.split()
